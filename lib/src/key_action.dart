@@ -8,5 +8,6 @@ enum VirtualKeyboardKeyAction {
   Return,
   Shift,
   Space,
-  SwitchLanguage
+  SwitchLanguage,
+  Expand
 }
